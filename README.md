@@ -4,6 +4,8 @@ Overview:
 
 A machine learning model was developed to predict the creditworthiness of borrowers using a dataset of lending activity from a lending service company. The dataset included financial information such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, total debt, and loan status (categorized as 0 for healthy loans and 1 for high-risk loans).
 
+The typical stages of machine learning involve preprocessing, training, validation, and prediction. In this dataset, the data is initially divided into features, then split into training and testing sets. Following this, a logistic regression model was built. 
+
 Results:
 
 Machine Learning Model:
